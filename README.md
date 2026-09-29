@@ -41,6 +41,49 @@ Git · GitHub · VS Code · Postman · MongoDB Compass · Vercel
 
 📌 Featured Projects
 
+
+_____
+
+🏫 Internship Project — School Management System
+
+Internship at Corepro Techno LLP
+
+During my internship at Corepro Techno LLP, I worked on a full-stack School Management System designed to manage school operations through separate portals for students, teachers, and administrators.
+
+👨‍🎓 Student Portal
+
+* Student-focused portal
+* Access to academic and school-related information
+* Student account management
+
+👨‍🏫 Teacher Portal
+
+* Dedicated teacher portal
+* Teacher-focused management features
+* Access to relevant student and academic information
+
+👨‍💼 Admin Dashboard
+
+* Centralized admin dashboard
+* Student and teacher management
+* Management of school-related data and operations
+* Administrative controls
+
+🔐 Key Features
+
+* Role-based access control
+* Authentication and authorization
+* Student management
+* Teacher management
+* Admin dashboard
+* CRUD operations
+* REST API integration
+* Database integration
+
+Tech Stack: React.js · Node.js · Express.js · MongoDB · Mongoose · REST APIs · JWT
+
+_____
+
 📝 Blog Application
 
 A full-stack blog application built with React and Firebase.
